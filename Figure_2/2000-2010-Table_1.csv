@@ -1,0 +1,495 @@
+Table 1,,,,,,,,
+,UA,UANAME,UA00,UA00NAME,UAPOP,UA00POP,UAAREALAND,UA00AREALAND
+2010 Census Urban and Rural Classification and Urban Area Criteria,63217,"New York--Newark, NY--NJ--CT                                                                        ",63217,"New York--Newark, NY--NJ--CT",18351295,17799861,3450.20,3352.60
+,51445,"Los Angeles--Long Beach--Anaheim, CA                                                                ",51445,"Los Angeles--Long Beach--Santa Ana, CA",12150996,11789487,1736.02,1667.93
+https://www.census.gov/programs-surveys/geography/guidance/geo-areas/urban-rural/2010-urban-rural.html,16264,"Chicago, IL--IN                                                                                     ",16264,"Chicago, IL--IN",8608208,8307904,2442.75,2122.81
+,56602,"Miami, FL                                                                                           ",56602,"Miami, FL",5502379,4919036,1238.61,1116.09
+,69076,"Philadelphia, PA--NJ--DE--MD                                                                        ",69076,"Philadelphia, PA--NJ--DE--MD",5441567,5149079,1981.37,1799.51
+,22042,"Dallas--Fort Worth--Arlington, TX                                                                   ",22042,"Dallas--Fort Worth--Arlington, TX",5121892,4145659,1779.13,1407.04
+,40429,"Houston, TX                                                                                         ",40429,"Houston, TX",4944332,3822509,1660.02,1295.27
+,92242,"Washington, DC--VA--MD                                                                              ",92242,"Washington, DC--VA--MD",4586770,3933920,1321.73,1156.77
+,3817,"Atlanta, GA                                                                                         ",3817,"Atlanta, GA",4515419,3499840,2645.35,1962.58
+,9271,"Boston, MA--NH--RI                                                                                  ",9271,"Boston, MA--NH--RI",4181019,4032484,1873.46,1736.18
+,23824,"Detroit, MI                                                                                         ",23824,"Detroit, MI",3734090,3903377,1337.16,1261.45
+,69184,"Phoenix--Mesa, AZ                                                                                   ",69184,"Phoenix--Mesa, AZ",3629114,2907049,1146.57,799.01
+,78904,"San Francisco--Oakland, CA                                                                          ",78904,"San Francisco--Oakland, CA",3281212,3228605,523.62,526.66
+,80389,"Seattle, WA                                                                                         ",80389,"Seattle, WA",3059393,2712205,1010.31,953.63
+,78661,"San Diego, CA                                                                                       ",78661,"San Diego, CA",2956746,2674436,732.41,782.29
+,57628,"Minneapolis--St. Paul, MN--WI                                                                       ",57628,"Minneapolis--St. Paul, MN",2650890,2388593,1021.80,894.22
+,86599,"Tampa--St. Petersburg, FL                                                                           ",86599,"Tampa--St. Petersburg, FL",2441770,2062339,956.99,802.27
+,23527,"Denver--Aurora, CO                                                                                  ",23527,"Denver--Aurora, CO",2374203,1984889,667.95,498.83
+,4843,"Baltimore, MD                                                                                       ",4843,"Baltimore, MD",2203663,2076354,717.04,682.73
+,77770,"St. Louis, MO--IL                                                                                   ",77770,"St. Louis, MO--IL",2150706,2077662,923.64,828.95
+,79093,"San Juan, PR                                                                                        ",79093,"San Juan, PR",2148346,2216616,866.69,891.67
+,75340,"Riverside--San Bernardino, CA                                                                       ",75340,"Riverside--San Bernardino, CA",1932666,1506816,544.97,438.78
+,47995,"Las Vegas--Henderson, NV                                                                            ",47962,"Las Vegas, NV",1886011,1314357,416.84,285.91
+,71317,"Portland, OR--WA                                                                                    ",71317,"Portland, OR--WA",1849898,1583138,524.38,473.94
+,17668,"Cleveland, OH                                                                                       ",17668,"Cleveland, OH",1780673,1786647,771.97,647.00
+,78580,"San Antonio, TX                                                                                     ",78580,"San Antonio, TX",1758210,1327554,597.10,407.56
+,69697,"Pittsburgh, PA                                                                                      ",69697,"Pittsburgh, PA",1733853,1753136,905.17,852.40
+,77068,"Sacramento, CA                                                                                      ",77068,"Sacramento, CA",1723634,1393498,470.98,369.03
+,79039,"San Jose, CA                                                                                        ",79039,"San Jose, CA",1664496,1538312,285.98,260.11
+,16885,"Cincinnati, OH--KY--IN                                                                              ",16885,"Cincinnati, OH--KY--IN",1624827,1503262,787.74,671.77
+,43912,"Kansas City, MO--KS                                                                                 ",43912,"Kansas City, MO--KS",1519417,1361744,677.84,584.41
+,65863,"Orlando, FL                                                                                         ",65863,"Orlando, FL",1510516,1157431,597.69,453.19
+,41212,"Indianapolis, IN                                                                                    ",41212,"Indianapolis, IN",1487483,1218919,705.74,552.92
+,90892,"Virginia Beach, VA                                                                                  ",90892,"Virginia Beach, VA",1439666,1394439,515.45,526.80
+,57466,"Milwaukee, WI                                                                                       ",57466,"Milwaukee, WI",1376476,1308913,545.62,487.05
+,19234,"Columbus, OH                                                                                        ",19234,"Columbus, OH",1368035,1133193,510.46,397.71
+,4384,"Austin, TX                                                                                          ",4384,"Austin, TX",1362416,901920,523.03,318.13
+,15670,"Charlotte, NC--SC                                                                                   ",15670,"Charlotte, NC--SC",1249442,758927,741.49,434.91
+,72505,"Providence, RI--MA                                                                                  ",72505,"Providence, RI--MA",1190956,1174548,545.05,503.63
+,42346,"Jacksonville, FL                                                                                    ",42346,"Jacksonville, FL",1065219,882295,530.36,410.52
+,56116,"Memphis, TN--MS--AR                                                                                 ",56116,"Memphis, TN--MS--AR",1060061,972091,497.31,399.82
+,78499,"Salt Lake City--West Valley City, UT                                                                ",78499,"Salt Lake City, UT",1021243,887650,277.89,230.72
+,51755,"Louisville/Jefferson County, KY--IN                                                                 ",51715,"Louisville, KY--IN",972546,863582,476.72,391.30
+,61273,"Nashville-Davidson, TN                                                                              ",61273,"Nashville-Davidson, TN",969587,749935,563.47,430.77
+,74746,"Richmond, VA                                                                                        ",74746,"Richmond, VA",953556,818836,492.17,436.76
+,11350,"Buffalo, NY                                                                                         ",11350,"Buffalo, NY",935906,976703,379.93,366.69
+,37243,"Hartford, CT                                                                                        ",37243,"Hartford, CT",924859,851535,516.25,469.34
+,10162,"Bridgeport--Stamford, CT--NY                                                                        ",10162,"Bridgeport--Stamford, CT--NY",923311,888890,466.21,465.31
+,62677,"New Orleans, LA                                                                                     ",62677,"New Orleans, LA",899703,1009283,251.39,197.84
+,73261,"Raleigh, NC                                                                                         ",73261,"Raleigh, NC",884891,541527,518.14,319.61
+,65080,"Oklahoma City, OK                                                                                   ",65080,"Oklahoma City, OK",861505,747003,410.63,322.35
+,88732,"Tucson, AZ                                                                                          ",88732,"Tucson, AZ",843168,720425,353.46,291.36
+,27253,"El Paso, TX--NM                                                                                     ",27253,"El Paso, TX--NM",803086,674801,250.57,219.12
+,89770,"Urban Honolulu, HI                                                                                  ",39889,"Honolulu, HI",802459,718182,170.17,154.12
+,7786,"Birmingham, AL                                                                                      ",7786,"Birmingham, AL",749495,663615,529.90,392.10
+,1171,"Albuquerque, NM                                                                                     ",1171,"Albuquerque, NM",741318,598191,250.57,223.95
+,52390,"McAllen, TX                                                                                         ",52390,"McAllen, TX",728825,523144,357.99,313.83
+,65269,"Omaha, NE--IA                                                                                       ",65269,"Omaha, NE--IA",725008,626623,271.21,226.36
+,22528,"Dayton, OH                                                                                          ",22528,"Dayton, OH",724091,703444,351.44,323.56
+,75664,"Rochester, NY                                                                                       ",75664,"Rochester, NY",720572,694396,324.47,295.15
+,1495,"Allentown, PA--NJ                                                                                   ",1495,"Allentown--Bethlehem, PA--NJ",664651,576408,346.29,289.50
+,88948,"Tulsa, OK                                                                                           ",88948,"Tulsa, OK",655479,558329,335.91,261.40
+,31843,"Fresno, CA                                                                                          ",31843,"Fresno, CA",654628,554923,171.28,138.62
+,79606,"Sarasota--Bradenton, FL                                                                             ",79606,"Sarasota--Bradenton, FL",643260,559229,326.69,270.44
+,83926,"Springfield, MA--CT                                                                                 ",83926,"Springfield, MA--CT",621300,573610,348.56,308.98
+,19504,"Concord, CA                                                                                         ",19504,"Concord, CA",615968,552624,203.75,176.46
+,970,"Albany--Schenectady, NY                                                                             ",928,"Albany, NY",594962,558947,295.73,284.25
+,5680,"Baton Rouge, LA                                                                                     ",5680,"Baton Rouge, LA",594309,479019,366.79,280.65
+,57709,"Mission Viejo--Lake Forest--San Clemente, CA                                                        ",57709,"Mission Viejo, CA",583681,533015,150.53,136.89
+,34300,"Grand Rapids, MI                                                                                    ",34300,"Grand Rapids, MI",569935,539080,280.57,257.35
+,766,"Akron, OH                                                                                           ",766,"Akron, OH",569499,570215,325.38,307.81
+,62407,"New Haven, CT                                                                                       ",62407,"New Haven, CT",562839,531314,306.11,285.31
+,18856,"Colorado Springs, CO                                                                                ",18856,"Colorado Springs, CO",559409,466122,187.84,197.36
+,45640,"Knoxville, TN                                                                                       ",45640,"Knoxville, TN",558696,419830,438.15,339.48
+,18964,"Columbia, SC                                                                                        ",18964,"Columbia, SC",549777,420537,380.02,268.93
+,15508,"Charleston--North Charleston, SC                                                                    ",15508,"Charleston--North Charleston, SC",548404,423410,293.35,230.94
+,64945,"Ogden--Layton, UT                                                                                   ",64945,"Ogden--Layton, UT",546026,417933,217.55,180.05
+,13510,"Cape Coral, FL                                                                                      ",13510,"Cape Coral, FL",530290,329757,330.31,191.82
+,4681,"Bakersfield, CA                                                                                     ",4681,"Bakersfield, CA",523994,396125,138.44,110.33
+,87868,"Toledo, OH--MI                                                                                      ",87868,"Toledo, OH--MI",507643,503008,240.44,202.33
+,97291,"Worcester, MA--CT                                                                                   ",97291,"Worcester, MA--CT",486514,429882,304.11,250.32
+,72559,"Provo--Orem, UT                                                                                     ",72559,"Provo--Orem, UT",482819,303680,168.97,85.00
+,95077,"Wichita, KS                                                                                         ",95077,"Wichita, KS",472870,422301,214.74,179.51
+,67105,"Palm Bay--Melbourne, FL                                                                             ",67105,"Palm Bay--Melbourne, FL",452791,393289,231.98,219.74
+,23743,"Des Moines, IA                                                                                      ",23743,"Des Moines, IA",450070,370505,200.59,140.32
+,37081,"Harrisburg, PA                                                                                      ",37081,"Harrisburg, PA",444474,362782,259.68,208.39
+,60799,"Murrieta--Temecula--Menifee, CA                                                                     ",87004,"Temecula--Murrieta, CA",441546,229810,161.72,95.59
+,50392,"Little Rock, AR                                                                                     ",50392,"Little Rock, AR",431388,360331,258.31,205.57
+,71803,"Poughkeepsie--Newburgh, NY--NJ                                                                      ",71803,"Poughkeepsie--Newburgh, NY",423566,351982,327.14,264.99
+,86302,"Syracuse, NY                                                                                        ",86302,"Syracuse, NY",412317,402267,194.93,179.66
+,47530,"Lancaster, PA                                                                                       ",47530,"Lancaster, PA",402004,323554,247.53,199.43
+,53200,"Madison, WI                                                                                         ",53200,"Madison, WI",401661,329533,151.00,113.92
+,35461,"Greenville, SC                                                                                      ",35461,"Greenville, SC",400492,302194,320.25,226.54
+,74179,"Reno, NV--CA                                                                                        ",74179,"Reno, NV",392141,303689,164.38,118.60
+,96670,"Winston-Salem, NC                                                                                   ",96670,"Winston-Salem, NC",391024,299290,322.58,251.38
+,83764,"Spokane, WA                                                                                         ",83764,"Spokane, WA--ID",387847,334858,164.20,143.05
+,97831,"Youngstown, OH--PA                                                                                  ",97831,"Youngstown, OH--PA",387550,417437,241.09,228.27
+,4222,"Augusta-Richmond County, GA--SC                                                                     ",4222,"Augusta-Richmond County, GA--SC",386787,335630,259.52,231.79
+,80227,"Scranton, PA                                                                                        ",80227,"Scranton, PA",381502,385237,170.79,158.70
+,15832,"Chattanooga, TN--GA                                                                                 ",15832,"Chattanooga, TN--GA",381112,343509,300.13,290.00
+,71479,"Port St. Lucie, FL                                                                                  ",71479,"Port St. Lucie, FL",376047,270774,208.10,169.03
+,85087,"Stockton, CA                                                                                        ",85087,"Stockton, CA",370583,313392,92.52,74.29
+,66673,"Oxnard, CA                                                                                          ",66673,"Oxnard, CA",367260,337591,84.38,75.70
+,23500,"Denton--Lewisville, TX                                                                              ",23500,"Denton--Lewisville, TX",366174,299823,145.18,121.57
+,58006,"Modesto, CA                                                                                         ",58006,"Modesto, CA",358172,310945,91.88,86.08
+,29872,"Flint, MI                                                                                           ",29872,"Flint, MI",356218,365096,235.90,231.11
+,42211,"Jackson, MS                                                                                         ",42211,"Jackson, MS",351478,292637,242.49,160.84
+,8785,"Boise City, ID                                                                                      ",8785,"Boise City, ID",349684,272625,133.83,108.68
+,67134,"Palm Coast--Daytona Beach--Port Orange, FL                                                          ",22636,"Daytona Beach--Port Orange, FL",349064,255353,179.34,113.56
+,25228,"Durham, NC                                                                                          ",25228,"Durham, NC",347602,287796,181.74,156.78
+,41347,"Indio--Cathedral City, CA                                                                           ",41347,"Indio--Cathedral City--Palm Springs, CA",345580,254856,143.79,98.59
+,47611,"Lancaster--Palmdale, CA                                                                             ",47611,"Lancaster--Palmdale, CA",341219,263532,115.50,90.40
+,68482,"Pensacola, FL--AL                                                                                   ",68482,"Pensacola, FL--AL",340067,323783,232.62,219.36
+,90541,"Victorville--Hesperia, CA                                                                           ",90541,"Victorville--Hesperia--Apple Valley, CA",328454,200436,166.83,123.97
+,57925,"Mobile, AL                                                                                          ",57925,"Mobile, AL",326183,317605,222.76,210.77
+,20287,"Corpus Christi, TX                                                                                  ",20287,"Corpus Christi, TX",320069,293925,120.28,110.29
+,45451,"Kissimmee, FL                                                                                       ",45451,"Kissimmee, FL",314071,186667,158.27,104.75
+,47719,"Lansing, MI                                                                                         ",47719,"Lansing, MI",313532,300032,158.17,136.87
+,31087,"Fort Wayne, IN                                                                                      ",31087,"Fort Wayne, IN",313492,287759,172.13,135.25
+,35164,"Greensboro, NC                                                                                      ",35164,"Greensboro, NC",311810,267884,185.21,135.47
+,8974,"Bonita Springs, FL                                                                                  ",8974,"Bonita Springs--Naples, FL",310298,221251,186.96,150.21
+,29440,"Fayetteville, NC                                                                                    ",29440,"Fayetteville, NC",310282,276368,198.03,167.13
+,79498,"Santa Rosa, CA                                                                                      ",79498,"Santa Rosa, CA",308231,285408,97.99,101.99
+,631,"Aguadilla--Isabela--San Sebastián, PR                                                               ",631,"Aguadilla--Isabela--San Sebastián, PR",306196,299086,239.27,239.54
+,2602,"Ann Arbor, MI                                                                                       ",2602,"Ann Arbor, MI",306022,283904,159.57,128.76
+,81739,"Shreveport, LA                                                                                      ",81739,"Shreveport, LA",298317,275213,185.23,154.66
+,75718,"Rockford, IL                                                                                        ",75718,"Rockford, IL",296863,270414,153.01,139.08
+,88462,"Trenton, NJ                                                                                         ",88462,"Trenton, NJ",296668,268472,105.56,92.12
+,29494,"Fayetteville--Springdale--Rogers, AR--MO                                                            ",29494,"Fayetteville--Springdale, AR",295083,172585,187.73,108.81
+,76474,"Round Lake Beach--McHenry--Grayslake, IL--WI                                                        ",76474,"Round Lake Beach--McHenry--Grayslake, IL--WI",290373,226848,152.60,133.15
+,49582,"Lexington-Fayette, KY                                                                               ",49582,"Lexington-Fayette, KY",290263,250994,87.54,69.55
+,40780,"Huntsville, AL                                                                                      ",40780,"Huntsville, AL",286692,213253,209.76,157.20
+,3358,"Asheville, NC                                                                                       ",3358,"Asheville, NC",280648,221570,264.88,206.76
+,22366,"Davenport, IA--IL                                                                                   ",22366,"Davenport, IA--IL",280051,270626,138.23,123.87
+,13375,"Canton, OH                                                                                          ",13375,"Canton, OH",279245,266595,166.45,143.51
+,83116,"South Bend, IN--MI                                                                                  ",83116,"South Bend, IN--MI",278165,276498,161.08,155.80
+,2683,"Antioch, CA                                                                                         ",2683,"Antioch, CA",277634,217591,81.36,60.28
+,83953,"Springfield, MO                                                                                     ",83953,"Springfield, MO",273724,215004,142.31,113.51
+,68509,"Peoria, IL                                                                                          ",68509,"Peoria, IL",266921,247172,143.51,123.14
+,73693,"Reading, PA                                                                                         ",73693,"Reading, PA",266254,240264,103.84,100.65
+,30628,"Fort Collins, CO                                                                                    ",30628,"Fort Collins, CO",264465,206757,109.66,83.65
+,58600,"Montgomery, AL                                                                                      ",58600,"Montgomery, AL",263907,196892,153.58,98.76
+,46828,"Lakeland, FL                                                                                        ",46828,"Lakeland, FL",262596,199487,146.02,120.60
+,79768,"Savannah, GA                                                                                        ",79768,"Savannah, GA",260677,208886,165.49,102.39
+,49933,"Lincoln, NE                                                                                         ",49933,"Lincoln, NE",258719,226582,88.47,78.12
+,79309,"Santa Clarita, CA                                                                                   ",79309,"Santa Clarita, CA",258653,170481,76.73,54.33
+,19099,"Columbus, GA--AL                                                                                    ",19099,"Columbus, GA--AL",253602,242324,147.05,136.16
+,46045,"Lafayette, LA                                                                                       ",46045,"Lafayette, LA",252720,178079,178.63,124.60
+,2305,"Anchorage, AK                                                                                       ",2305,"Anchorage, AK",251243,225744,84.98,78.85
+,3898,"Atlantic City, NJ                                                                                   ",3898,"Atlantic City, NJ",248402,227180,125.14,120.86
+,28117,"Eugene, OR                                                                                          ",28117,"Eugene, OR",247421,224049,86.75,68.50
+,5167,"Barnstable Town, MA                                                                                 ",5167,"Barnstable Town, MA",246695,243667,277.26,286.15
+,86464,"Tallahassee, FL                                                                                     ",86464,"Tallahassee, FL",240223,204260,126.50,113.88
+,19755,"Conroe--The Woodlands, TX                                                                           ",87328,"The Woodlands, TX",239938,89445,133.32,41.69
+,51877,"Lubbock, TX                                                                                         ",51877,"Lubbock, TX",237356,202225,96.46,74.52
+,78229,"Salem, OR                                                                                           ",78229,"Salem, OR",236632,207229,75.92,69.22
+,47854,"Laredo, TX                                                                                          ",47854,"Laredo, TX",235730,175586,65.68,42.51
+,97750,"York, PA                                                                                            ",97750,"York, PA",232045,192903,132.21,118.58
+,28333,"Evansville, IN--KY                                                                                  ",28333,"Evansville, IN--KY",229351,211989,118.84,105.72
+,61165,"Nashua, NH--MA                                                                                      ",61165,"Nashua, NH--MA",226400,197155,182.28,137.70
+,95833,"Wilmington, NC                                                                                      ",95833,"Wilmington, NC",219957,161149,133.77,118.92
+,90946,"Visalia, CA                                                                                         ",90946,"Visalia, CA",219454,120044,63.43,39.91
+,44992,"Killeen, TX                                                                                         ",44992,"Killeen, TX",217630,167976,84.81,64.08
+,10972,"Brownsville, TX                                                                                     ",10972,"Brownsville, TX",217585,165776,81.53,57.33
+,2764,"Appleton, WI                                                                                        ",2764,"Appleton, WI",216154,187683,103.78,73.04
+,60895,"Myrtle Beach--Socastee, SC--NC                                                                      ",60895,"Myrtle Beach, SC",215304,122984,190.37,100.92
+,19558,"Concord, NC                                                                                         ",19558,"Concord, NC",214881,115057,180.21,91.20
+,87490,"Thousand Oaks, CA                                                                                   ",87490,"Thousand Oaks, CA",214811,210990,85.62,86.17
+,199,"Aberdeen--Bel Air South--Bel Air North, MD                                                          ",199,"Aberdeen--Havre de Grace--Bel Air, MD",213751,174598,131.13,102.05
+,38647,"Hickory, NC                                                                                         ",38647,"Hickory, NC",212195,187808,261.61,210.80
+,44479,"Kennewick--Pasco, WA                                                                                ",44479,"Kennewick--Richland, WA",210975,153851,102.47,84.77
+,75421,"Roanoke, VA                                                                                         ",75421,"Roanoke, VA",210111,197442,124.18,111.97
+,43723,"Kalamazoo, MI                                                                                       ",43723,"Kalamazoo, MI",209703,187961,131.68,107.74
+,64135,"Norwich--New London, CT--RI                                                                         ",64135,"Norwich--New London, CT",209190,173160,151.99,123.04
+,35920,"Gulfport, MS                                                                                        ",35920,"Gulfport--Biloxi, MS",208948,205754,164.52,134.91
+,34813,"Green Bay, WI                                                                                       ",34813,"Green Bay, WI",206520,187316,105.01,82.11
+,71263,"Portland, ME                                                                                        ",71263,"Portland, ME",203914,188080,135.91,123.79
+,40753,"Huntington, WV--KY--OH                                                                              ",40753,"Huntington, WV--KY--OH",202637,177550,130.34,106.79
+,96697,"Winter Haven, FL                                                                                    ",96697,"Winter Haven, FL",201289,153924,134.36,104.16
+,9946,"Bremerton, WA                                                                                       ",9946,"Bremerton, WA",198979,178369,136.49,117.50
+,4549,"Avondale--Goodyear, AZ                                                                              ",4546,"Avondale, AZ",197041,67875,87.92,29.43
+,1927,"Amarillo, TX                                                                                        ",1927,"Amarillo, TX",196651,179312,81.18,74.08
+,27766,"Erie, PA                                                                                            ",27766,"Erie, PA",196611,194804,82.24,78.79
+,79282,"Santa Barbara, CA                                                                                   ",79282,"Santa Barbara, CA",195861,196263,55.85,59.78
+,92485,"Waterbury, CT                                                                                       ",92485,"Waterbury, CT",194535,189026,90.26,97.88
+,31060,"Fort Walton Beach--Navarre--Wright, FL                                                              ",31060,"Fort Walton Beach, FL",191917,152741,120.51,96.54
+,32167,"Gainesville, FL                                                                                     ",32167,"Gainesville, FL",187781,159508,87.04,77.47
+,78310,"Salinas, CA                                                                                         ",78310,"Salinas, CA",184809,179173,48.95,44.90
+,36190,"Hagerstown, MD--WV--PA                                                                              ",36190,"Hagerstown, MD--WV--PA",182696,120326,133.33,76.72
+,23311,"Deltona, FL                                                                                         ",23311,"Deltona, FL",182169,147713,96.46,89.53
+,51364,"Lorain--Elyria, OH                                                                                  ",51364,"Lorain--Elyria, OH",180956,193586,100.20,87.61
+,83548,"Spartanburg, SC                                                                                     ",83548,"Spartanburg, SC",180786,145058,190.03,137.50
+,14752,"Cedar Rapids, IA                                                                                    ",14752,"Cedar Rapids, IA",177844,155334,83.45,59.33
+,29089,"Fargo, ND--MN                                                                                       ",29089,"Fargo, ND--MN",176676,142477,70.27,45.81
+,65242,"Olympia--Lacey, WA                                                                                  ",65242,"Olympia--Lacey, WA",176617,143826,105.58,91.95
+,91027,"Waco, TX                                                                                            ",91027,"Waco, TX",172378,153198,90.25,69.74
+,18748,"College Station--Bryan, TX                                                                          ",18748,"College Station--Bryan, TX",171345,132500,71.42,49.15
+,52687,"McKinney, TX                                                                                        ",52687,"McKinney, TX",170030,54525,74.10,27.13
+,63838,"North Port--Port Charlotte, FL                                                                      ",63838,"North Port--Punta Gorda, FL",169541,122421,118.94,89.39
+,32653,"Gastonia, NC--SC                                                                                    ",32653,"Gastonia, NC",169495,141407,138.63,118.84
+,22096,"Danbury, CT--NY                                                                                     ",22096,"Danbury, CT--NY",168136,154455,131.66,123.57
+,38809,"High Point, NC                                                                                      ",38809,"High Point, NC",166485,132844,112.99,94.05
+,90028,"Vallejo, CA                                                                                         ",90028,"Vallejo, CA",165074,158967,42.01,33.95
+,79336,"Santa Cruz, CA                                                                                      ",79336,"Santa Cruz, CA",163703,157348,58.35,54.90
+,38215,"Hemet, CA                                                                                           ",38215,"Hemet, CA",163379,117200,49.10,41.81
+,83899,"Springfield, IL                                                                                     ",83899,"Springfield, IL",161316,153516,92.34,87.11
+,60841,"Muskegon, MI                                                                                        ",60841,"Muskegon, MI",161280,154729,112.29,99.64
+,17317,"Clarksville, TN--KY                                                                                 ",17317,"Clarksville, TN--KY",158655,121775,109.57,78.85
+,53740,"Manchester, NH                                                                                      ",53740,"Manchester, NH",158377,143549,86.15,71.06
+,7732,"Binghamton, NY--PA                                                                                  ",7732,"Binghamton, NY--PA",158084,158884,74.14,76.41
+,64567,"Ocala, FL                                                                                           ",64567,"Ocala, FL",156909,106542,112.09,88.95
+,82252,"Sioux Falls, SD                                                                                     ",82252,"Sioux Falls, SD",156777,124269,64.17,45.65
+,55981,"Medford, OR                                                                                         ",55981,"Medford, OR",154081,128780,64.72,58.69
+,15481,"Charleston, WV                                                                                      ",15481,"Charleston, WV",153199,182991,98.21,113.40
+,70993,"Port Arthur, TX                                                                                     ",70993,"Port Arthur, TX",153150,114656,105.56,45.86
+,60976,"Nampa, ID                                                                                           ",60976,"Nampa, ID",151499,95909,69.40,46.02
+,88084,"Topeka, KS                                                                                          ",88084,"Topeka, KS",150003,142411,79.59,70.21
+,70642,"Ponce, PR                                                                                           ",70642,"Ponce, PR",149539,195037,44.12,57.99
+,61786,"New Bedford, MA                                                                                     ",61786,"New Bedford, MA",149443,146730,55.10,62.52
+,80400,"Sebastian--Vero Beach South--Florida Ridge, FL                                                      ",90406,"Vero Beach--Sebastian, FL",149422,120962,96.65,81.46
+,84024,"Spring Hill, FL                                                                                     ",10729,"Brooksville, FL",148220,102193,114.98,83.73
+,6058,"Beaumont, TX                                                                                        ",6058,"Beaumont, TX",147922,139304,91.68,81.43
+,46018,"Lafayette, IN                                                                                       ",46018,"Lafayette, IN",147725,125738,64.11,54.69
+,15211,"Champaign, IL                                                                                       ",15211,"Champaign, IL",145361,123938,46.90,41.04
+,55333,"Marysville, WA                                                                                      ",55333,"Marysville, WA",145140,114372,81.81,73.54
+,40375,"Houma, LA                                                                                           ",40375,"Houma, LA",144875,125929,91.43,76.91
+,26794,"Elkhart, IN--MI                                                                                     ",26794,"Elkhart, IN--MI",143592,131226,91.86,77.49
+,46531,"Lake Charles, LA                                                                                    ",46531,"Lake Charles, LA",143440,132977,126.52,91.65
+,67294,"Panama City, FL                                                                                     ",67294,"Panama City, FL",143280,132419,91.91,101.68
+,31519,"Frederick, MD                                                                                       ",31519,"Frederick, MD",141576,119144,73.39,78.64
+,31600,"Fredericksburg, VA                                                                                  ",31600,"Fredericksburg, VA",141238,97102,77.81,65.35
+,3034,"Arecibo, PR                                                                                         ",3034,"Arecibo, PR",139171,145643,84.07,90.78
+,89110,"Tuscaloosa, AL                                                                                      ",89110,"Tuscaloosa, AL",139114,116888,89.52,76.00
+,52822,"Macon, GA                                                                                           ",52822,"Macon, GA",137570,135170,98.01,80.53
+,56251,"Merced, CA                                                                                          ",56251,"Merced, CA",136969,110483,47.53,35.97
+,72613,"Pueblo, CO                                                                                          ",72613,"Pueblo, CO",136550,123351,74.21,53.70
+,36892,"Harlingen, TX                                                                                       ",36892,"Harlingen, TX",135663,110770,82.75,59.13
+,98020,"Yuma, AZ--CA                                                                                        ",98020,"Yuma, AZ--CA",135267,94950,58.82,37.50
+,73153,"Racine, WI                                                                                          ",73153,"Racine, WI",133700,129545,49.41,45.86
+,28657,"Fairfield, CA                                                                                       ",28657,"Fairfield, CA",133683,112446,39.46,25.82
+,60733,"Murfreesboro, TN                                                                                    ",60733,"Murfreesboro, TN",133228,135855,77.34,88.33
+,91783,"Warner Robins, GA                                                                                   ",91783,"Warner Robins, GA",133109,90838,100.61,80.91
+,8407,"Bloomington--Normal, IL                                                                             ",8407,"Bloomington--Normal, IL",132600,112415,49.19,37.17
+,48799,"Leesburg--Eustis--Tavares, FL                                                                       ",48799,"Leesburg--Eustis, FL",131337,97497,94.42,71.01
+,32194,"Gainesville, GA                                                                                     ",32194,"Gainesville, GA",130846,88680,126.27,90.37
+,79417,"Santa Maria, CA                                                                                     ",79417,"Santa Maria, CA",130447,120297,29.13,35.55
+,89326,"Tyler, TX                                                                                           ",89326,"Tyler, TX",130247,101494,90.24,57.46
+,97507,"Yakima, WA                                                                                          ",97507,"Yakima, WA",129534,112816,59.83,50.36
+,3763,"Athens-Clarke County, GA                                                                            ",3763,"Athens-Clarke County, GA",128754,106482,98.39,79.56
+,47935,"Las Cruces, NM                                                                                      ",47935,"Las Cruces, NM",128600,104186,64.70,64.13
+,34273,"Grand Junction, CO                                                                                  ",34273,"Grand Junction, CO",128124,92362,78.80,56.04
+,64864,"Odessa, TX                                                                                          ",64864,"Odessa, TX",126405,111395,58.93,53.26
+,77149,"Saginaw, MI                                                                                         ",77149,"Saginaw, MI",126265,140985,71.22,73.74
+,82144,"Simi Valley, CA                                                                                     ",82144,"Simi Valley, CA",125206,112345,31.43,27.07
+,18937,"Columbia, MO                                                                                        ",18937,"Columbia, MO",124748,98779,61.81,51.52
+,44506,"Kenosha, WI--IL                                                                                     ",44506,"Kenosha, WI",124064,110942,51.21,42.15
+,30925,"Fort Smith, AR--OK                                                                                  ",30925,"Fort Smith, AR--OK",122947,106470,70.77,55.30
+,55603,"Mauldin--Simpsonville, SC                                                                           ",55603,"Mauldin--Simpsonville, SC",120577,77831,83.56,55.86
+,43210,"Johnson City, TN                                                                                    ",43210,"Johnson City, TN",120415,102456,109.91,90.92
+,24850,"Duluth, MN--WI                                                                                      ",24850,"Duluth, MN--WI",120378,118265,70.48,66.27
+,11728,"Burlington, NC                                                                                      ",11728,"Burlington, NC",119911,94248,90.43,64.75
+,83332,"South Lyon--Howell, MI                                                                              ",83332,"South Lyon--Howell--Brighton, MI",119509,106139,102.79,95.02
+,78985,"San Germán--Cabo Rojo--Sabana Grande, PR                                                            ",78985,"San Germán--Cabo Rojo--Sabana Grande, PR",118199,112939,95.48,90.27
+,34786,"Greeley, CO                                                                                         ",34786,"Greeley, CO",117825,93879,41.23,33.73
+,57007,"Midland, TX                                                                                         ",57007,"Midland, TX",117807,99221,52.88,45.26
+,35380,"Greenville, NC                                                                                      ",35380,"Greenville, NC",117798,84059,65.20,44.92
+,73774,"Redding, CA                                                                                         ",73774,"Redding, CA",117731,105267,71.06,70.64
+,89785,"Utica, NY                                                                                           ",89785,"Utica, NY",117328,113409,62.39,54.96
+,49096,"Leominster--Fitchburg, MA                                                                           ",49096,"Leominster--Fitchburg, MA",116960,112943,65.04,62.64
+,97939,"Yuba City, CA                                                                                       ",97939,"Yuba City, CA",116719,97645,38.66,35.37
+,52201,"Lynchburg, VA                                                                                       ",52201,"Lynchburg, VA",116636,98714,88.81,74.50
+,58330,"Monroe, LA                                                                                          ",58330,"Monroe, LA",116533,113818,81.94,78.45
+,7705,"Billings, MT                                                                                        ",7705,"Billings, MT",114773,100317,52.96,45.77
+,9298,"Boulder, CO                                                                                         ",9298,"Boulder, CO",114591,112299,32.49,32.88
+,6652,"Bellingham, WA                                                                                      ",6652,"Bellingham, WA",114473,84324,48.12,35.48
+,80362,"Seaside--Monterey, CA                                                                               ",80362,"Seaside--Monterey--Marina, CA",114237,125503,38.69,40.64
+,43669,"Kailua (Honolulu County)--Kaneohe, HI                                                               ",43669,"Kailua (Honolulu County)--Kaneohe, HI",113682,117730,39.04,32.62
+,92593,"Waterloo, IA                                                                                        ",92593,"Waterloo, IA",113418,108298,62.23,52.75
+,45937,"Lady Lake--The Villages, FL                                                                         ",45937,"Lady Lake, FL",112991,50721,71.07,49.98
+,24580,"Dover, DE                                                                                           ",24580,"Dover, DE",110769,65044,74.03,43.42
+,77338,"St. Cloud, MN                                                                                       ",77338,"St. Cloud, MN",110621,91305,50.25,39.48
+,280,"Abilene, TX                                                                                         ",280,"Abilene, TX",110421,107041,54.73,47.56
+,91261,"Waldorf, MD                                                                                         ",77257,"St. Charles, MD",109919,74765,67.97,46.20
+,55738,"Mayagüez, PR                                                                                        ",55738,"Mayagüez, PR",109572,119350,53.74,60.32
+,11755,"Burlington, VT                                                                                      ",11755,"Burlington, VT",108740,105365,61.76,61.83
+,8380,"Bloomington, IN                                                                                     ",8380,"Bloomington, IN",108657,92456,44.80,43.00
+,71749,"Pottstown, PA                                                                                       ",71749,"Pottstown, PA",107682,73597,78.83,54.97
+,75637,"Rochester, MN                                                                                       ",75637,"Rochester, MN",107677,91271,50.58,40.26
+,26416,"El Centro--Calexico, CA                                                                             ",26416,"El Centro, CA",107672,52954,30.00,16.50
+,41590,"Iowa City, IA                                                                                       ",41590,"Iowa City, IA",106621,85247,45.58,35.75
+,45235,"Kingsport, TN--VA                                                                                   ",45235,"Kingsport, TN--VA",106571,95766,113.56,97.99
+,82225,"Sioux City, IA--NE--SD                                                                              ",82225,"Sioux City, IA--NE--SD",106494,106119,54.37,52.77
+,87220,"Texas City, TX                                                                                      ",87220,"Texas City, TX",106383,96417,76.01,58.56
+,42400,"Jacksonville, NC                                                                                    ",42400,"Jacksonville, NC",105419,95514,71.34,64.10
+,75745,"Rock Hill, SC                                                                                       ",75745,"Rock Hill, SC",104996,70007,95.62,61.18
+,63433,"Norman, OK                                                                                          ",63433,"Norman, OK",103898,86478,44.88,30.24
+,26038,"Eau Claire, WI                                                                                      ",26038,"Eau Claire, WI",102852,91393,69.00,57.49
+,45910,"La Crosse, WI--MN                                                                                   ",45910,"La Crosse, WI--MN",100868,89966,50.99,40.39
+,39430,"Holland, MI                                                                                         ",39430,"Holland, MI",99941,91921,59.24,47.95
+,89083,"Turlock, CA                                                                                         ",89083,"Turlock, CA",99904,69507,25.79,18.66
+,95104,"Wichita Falls, TX                                                                                   ",95104,"Wichita Falls, TX",99437,99396,50.36,51.94
+,51256,"Longview, TX                                                                                        ",51256,"Longview, TX",98884,78070,83.03,50.61
+,33328,"Gilroy--Morgan Hill, CA                                                                             ",33328,"Gilroy--Morgan Hill, CA",98413,84620,45.44,38.30
+,18451,"Coeur d'Alene, ID                                                                                   ",18451,"Coeur d'Alene, ID",98378,74800,47.24,42.15
+,77446,"St. George, UT                                                                                      ",77446,"St. George, UT",98370,62630,44.89,33.61
+,16318,"Chico, CA                                                                                           ",16318,"Chico, CA",98176,89221,34.41,34.93
+,78364,"Salisbury, MD--DE                                                                                   ",78364,"Salisbury, MD--DE",98081,59426,70.70,42.94
+,56926,"Middletown, OH                                                                                      ",56926,"Middletown, OH",97503,94355,56.10,48.03
+,901,"Albany, GA                                                                                          ",901,"Albany, GA",95779,95450,70.84,65.89
+,90730,"Vineland, NJ                                                                                        ",90730,"Vineland, NJ",95259,88724,61.90,61.58
+,50959,"Logan, UT                                                                                           ",50959,"Logan, UT",94983,76187,43.93,38.36
+,48394,"Lawton, OK                                                                                          ",48394,"Lawton, OK",94457,89556,44.07,55.19
+,22717,"Decatur, IL                                                                                         ",22717,"Decatur, IL",93863,96454,59.20,50.15
+,89866,"Vacaville, CA                                                                                       ",89866,"Vacaville, CA",93141,90264,27.41,25.33
+,78553,"San Angelo, TX                                                                                      ",78553,"San Angelo, TX",92984,87969,46.68,45.61
+,87139,"Terre Haute, IN                                                                                     ",87139,"Terre Haute, IN",92742,79376,53.45,43.24
+,15724,"Charlottesville, VA                                                                                 ",15724,"Charlottesville, VA",92359,81449,34.56,37.47
+,82468,"Slidell, LA                                                                                         ",82468,"Slidell, LA",91151,79926,58.60,56.17
+,97561,"Yauco, PR                                                                                           ",97561,"Yauco, PR",90899,108024,46.55,63.89
+,51175,"Longmont, CO                                                                                        ",51175,"Longmont, CO",90897,72929,26.23,22.65
+,40996,"Idaho Falls, ID                                                                                     ",40996,"Idaho Falls, ID",90733,66973,44.51,30.99
+,60625,"Muncie, IN                                                                                          ",60625,"Muncie, IN",90580,90673,46.67,42.99
+,87058,"Temple, TX                                                                                          ",87058,"Temple, TX",90390,71937,54.10,41.34
+,42157,"Jackson, MI                                                                                         ",42157,"Jackson, MI",90057,88050,57.67,51.61
+,30061,"Florence, SC                                                                                        ",30061,"Florence, SC",89557,67314,71.05,62.55
+,79363,"Santa Fe, NM                                                                                        ",79363,"Santa Fe, NM",89284,80337,53.09,45.38
+,53794,"Mandeville--Covington, LA                                                                           ",53794,"Mandeville--Covington, LA",88925,62866,65.60,46.39
+,8002,"Blacksburg, VA                                                                                      ",8002,"Blacksburg, VA",88542,57236,51.21,26.32
+,71506,"Portsmouth, NH--ME                                                                                  ",71506,"Portsmouth, NH--ME",88200,50912,92.67,42.92
+,2386,"Anderson, IN                                                                                        ",2386,"Anderson, IN",88133,97038,66.06,63.34
+,24607,"Dover--Rochester, NH--ME                                                                            ",24607,"Dover--Rochester, NH--ME",88087,80456,66.42,63.52
+,48232,"Lawrence, KS                                                                                        ",48232,"Lawrence, KS",88053,79647,30.44,22.70
+,36703,"Hanford, CA                                                                                         ",36703,"Hanford, CA",87941,69639,27.74,25.47
+,88273,"Tracy, CA                                                                                           ",88273,"Tracy, CA",87569,59020,22.26,12.77
+,84493,"State College, PA                                                                                   ",84493,"State College, PA",87454,71301,28.83,21.40
+,71155,"Port Huron, MI                                                                                      ",71155,"Port Huron, MI",87106,86486,60.44,55.53
+,83980,"Springfield, OH                                                                                     ",83980,"Springfield, OH",85256,89684,48.96,43.85
+,22069,"Dalton, GA                                                                                          ",22069,"Dalton, GA",85239,57666,80.82,54.40
+,28981,"Fajardo, PR                                                                                         ",28981,"Fajardo, PR",85225,78595,50.80,43.25
+,48826,"Lee's Summit, MO                                                                                    ",48826,"Lee's Summit, MO",85081,55285,41.32,22.73
+,72112,"Prescott Valley--Prescott, AZ                                                                       ",72046,"Prescott, AZ",84744,61909,50.98,38.81
+,61057,"Napa, CA                                                                                            ",61057,"Napa, CA",83913,79867,25.82,23.52
+,1765,"Alton, IL--MO                                                                                       ",1765,"Alton, IL",83890,84655,54.81,51.17
+,6868,"Bend, OR                                                                                            ",6868,"Bend, OR",83794,57525,39.71,36.39
+,54145,"Manteca, CA                                                                                         ",54145,"Manteca, CA",83578,51176,21.83,13.61
+,1279,"Alexandria, LA                                                                                      ",1279,"Alexandria, LA",82804,78504,65.54,58.33
+,43399,"Joplin, MO                                                                                          ",43399,"Joplin, MO",82775,72089,64.41,57.30
+,57736,"Missoula, MT                                                                                        ",57736,"Missoula, MT",82157,69491,45.20,36.38
+,7921,"Bismarck, ND                                                                                        ",7921,"Bismarck, ND",81955,74991,38.76,33.92
+,43885,"Kankakee, IL                                                                                        ",43885,"Kankakee, IL",81926,65073,37.16,27.60
+,50527,"Livermore, CA                                                                                       ",50527,"Livermore, CA",81624,75202,24.47,20.87
+,73396,"Rapid City, SD                                                                                      ",73396,"Rapid City, SD",81251,66780,42.25,30.39
+,94726,"Wheeling, WV--OH                                                                                    ",94726,"Wheeling, WV--OH",81249,87613,47.01,54.30
+,77743,"St. Joseph, MO--KS                                                                                  ",77743,"St. Joseph, MO--KS",81176,77231,41.85,38.67
+,43453,"Juana Díaz, PR                                                                                      ",43453,"Juana Díaz, PR",80928,54835,47.81,31.57
+,37594,"Hattiesburg, MS                                                                                     ",37594,"Hattiesburg, MS",80358,61465,69.00,38.98
+,35866,"Guayama, PR                                                                                         ",35866,"Guayama, PR",80155,77755,40.73,40.41
+,1792,"Altoona, PA                                                                                         ",1792,"Altoona, PA",79930,82520,37.39,37.57
+,2629,"Anniston--Oxford, AL                                                                                ",2629,"Anniston, AL",79796,75840,86.77,78.29
+,46126,"Lafayette--Louisville--Erie, CO                                                                     ",46126,"Lafayette--Louisville, CO",79407,60387,39.53,31.28
+,52984,"Madera, CA                                                                                          ",52984,"Madera, CA",78413,58027,22.39,22.61
+,5707,"Battle Creek, MI                                                                                    ",5707,"Battle Creek, MI",78393,79135,53.02,51.16
+,9379,"Bowling Green, KY                                                                                   ",9379,"Bowling Green, KY",78306,58314,45.40,36.44
+,87193,"Texarkana--Texarkana, TX--AR                                                                        ",87193,"Texarkana, TX--Texarkana, AR",78162,72288,64.40,58.04
+,48664,"Lebanon, PA                                                                                         ",48664,"Lebanon, PA",77086,63681,45.08,29.82
+,89974,"Valdosta, GA                                                                                        ",89974,"Valdosta, GA",77085,57647,55.71,37.93
+,29953,"Florence, AL                                                                                        ",29953,"Florence, AL",77074,71299,62.14,51.66
+,61705,"Newark, OH                                                                                          ",61705,"Newark, OH",76068,70001,42.12,35.41
+,2413,"Anderson, SC                                                                                        ",2413,"Anderson, SC",75702,70436,74.09,68.88
+,54091,"Mansfield, OH                                                                                       ",54091,"Mansfield, OH",75250,79698,50.32,50.70
+,46801,"Lake Jackson--Angleton, TX                                                                          ",46801,"Lake Jackson--Angleton, TX",74830,73416,41.69,33.82
+,4033,"Auburn, AL                                                                                          ",4033,"Auburn, AL",74741,60137,49.91,39.97
+,93025,"Wausau, WI                                                                                          ",93025,"Wausau, WI",74632,68221,46.87,37.35
+,66160,"Oshkosh, WI                                                                                         ",66160,"Oshkosh, WI",74495,71070,30.81,26.57
+,16237,"Cheyenne, WY                                                                                        ",16237,"Cheyenne, WY",73588,68202,35.13,33.86
+,92890,"Watsonville, CA                                                                                     ",92890,"Watsonville, CA",73534,66500,22.84,19.12
+,26750,"Elizabethtown--Radcliff, KY                                                                         ",73180,"Radcliff--Elizabethtown, KY",73467,64504,56.96,43.51
+,85708,"Sumter, SC                                                                                          ",85708,"Sumter, SC",73107,64320,65.69,44.68
+,49852,"Lima, OH                                                                                            ",49852,"Lima, OH",72852,74071,52.35,46.32
+,22420,"Davis, CA                                                                                           ",22420,"Davis, CA",72794,66022,14.12,13.63
+,94294,"Westminster--Eldersburg, MD                                                                         ",94294,"Westminster, MD",72714,65034,57.70,53.43
+,29818,"Flagstaff, AZ                                                                                       ",29818,"Flagstaff, AZ",71957,57050,34.83,32.46
+,42265,"Jackson, TN                                                                                         ",42265,"Jackson, TN",71880,65086,51.14,38.77
+,12754,"Camarillo, CA                                                                                       ",12754,"Camarillo, CA",71772,62798,22.00,21.32
+,30115,"Florida--Imbéry--Barceloneta, PR                                                                    ",30115,"Florida--Barceloneta--Bajadero, PR",71747,68811,45.81,49.41
+,81118,"Sheboygan, WI                                                                                       ",81118,"Sheboygan, WI",71313,68600,33.44,25.76
+,93592,"Weirton--Steubenville, WV--OH--PA                                                                   ",93592,"Weirton, WV--Steubenville, OH--PA",70889,73710,50.51,50.54
+,5869,"Bay City, MI                                                                                        ",5869,"Bay City, MI",70585,74048,40.33,39.78
+,66484,"Owensboro, KY                                                                                       ",66484,"Owensboro, KY",70543,67665,33.82,38.53
+,22690,"Decatur, AL                                                                                         ",22690,"Decatur, AL",70436,52315,58.29,28.19
+,59275,"Morgantown, WV                                                                                      ",59275,"Morgantown, WV",70350,55997,37.49,34.13
+,71074,"Porterville, CA                                                                                     ",71074,"Porterville, CA",70272,60261,20.51,21.10
+,70426,"Pocatello, ID                                                                                       ",70426,"Pocatello, ID",69809,62498,31.01,29.94
+,42562,"Janesville, WI                                                                                      ",42562,"Janesville, WI",69658,66034,30.78,29.35
+,10351,"Bristol--Bristol, TN--VA                                                                            ",10351,"Bristol, TN--Bristol, VA",69501,58472,63.89,51.08
+,96103,"Winchester, VA                                                                                      ",96103,"Winchester, VA",69449,53559,37.18,33.14
+,77230,"St. Augustine, FL                                                                                   ",77230,"St. Augustine, FL",69173,53519,43.06,34.62
+,43291,"Johnstown, PA                                                                                       ",43291,"Johnstown, PA",69014,76113,38.61,42.79
+,39079,"Hilton Head Island, SC                                                                              ",39079,"Hilton Head Island, SC",68998,34400,67.62,41.95
+,24472,"Dothan, AL                                                                                          ",24472,"Dothan, AL",68781,60792,55.50,53.47
+,50851,"Lodi, CA                                                                                            ",50851,"Lodi, CA",68738,83735,15.91,23.54
+,22960,"DeKalb, IL                                                                                          ",22960,"DeKalb, IL",68545,55805,25.79,17.88
+,93916,"West Bend, WI                                                                                       ",93916,"West Bend, WI",68444,33288,38.49,23.27
+,75988,"Rocky Mount, NC                                                                                     ",75988,"Rocky Mount, NC",68243,61657,45.96,40.79
+,27118,"Elmira, NY                                                                                          ",27118,"Elmira, NY",67983,67159,37.80,34.61
+,24823,"Dubuque, IA--IL                                                                                     ",24823,"Dubuque, IA--IL",67818,65251,33.79,30.23
+,36514,"Hammond, LA                                                                                         ",36514,"Hammond, LA",67629,43458,76.63,48.76
+,67672,"Parkersburg, WV--OH                                                                                 ",67672,"Parkersburg, WV--OH",67229,85605,42.38,50.44
+,93862,"Wenatchee, WA                                                                                       ",93862,"Wenatchee, WA",67227,55425,31.37,26.64
+,37162,"Harrisonburg, VA                                                                                    ",37162,"Harrisonburg, VA",66784,52647,32.55,26.69
+,17722,"Cleveland, TN                                                                                       ",17722,"Cleveland, TN",66777,58192,54.60,48.24
+,98182,"Zephyrhills, FL                                                                                     ",98182,"Zephyrhills, FL",66609,53979,43.49,41.23
+,36784,"Hanover, PA                                                                                         ",36784,"Hanover, PA",66301,48696,36.10,26.71
+,58168,"Monessen--California, PA                                                                            ",58168,"Monessen, PA",66086,56508,44.72,36.54
+,56656,"Michigan City--La Porte, IN--MI                                                                     ",56656,"Michigan City, IN--MI",66025,66199,38.96,33.24
+,33598,"Glens Falls, NY                                                                                     ",33598,"Glens Falls, NY",65443,57627,41.55,35.35
+,43345,"Jonesboro, AR                                                                                       ",43345,"Jonesboro, AR",65419,51804,46.95,39.91
+,19801,"Conway, AR                                                                                          ",19801,"Conway, AR",65277,43891,39.70,23.27
+,34759,"Great Falls, MT                                                                                     ",34759,"Great Falls, MT",65207,64387,31.11,28.70
+,27261,"El Paso de Robles (Paso Robles)--Atascadero, CA                                                     ",3574,"Atascadero--El Paso de Robles (Paso Robles), CA",65088,54762,31.44,30.79
+,14482,"Casper, WY                                                                                          ",14482,"Casper, WY",64548,57719,30.34,26.12
+,28549,"Fairbanks, AK                                                                                       ",28549,"Fairbanks, AK",64513,51926,55.12,43.11
+,32113,"Gadsden, AL                                                                                         ",32113,"Gadsden, AL",64172,61709,72.04,59.72
+,79633,"Saratoga Springs, NY                                                                                ",79633,"Saratoga Springs, NY",64100,51172,45.48,36.90
+,68887,"Petaluma, CA                                                                                        ",68887,"Petaluma, CA",64078,59958,21.31,18.47
+,89263,"Twin Rivers--Hightstown, NJ                                                                         ",38836,"Hightstown, NJ",64037,69977,35.24,29.92
+,6139,"Beckley, WV                                                                                         ",6139,"Beckley, WV",64022,46860,60.97,40.11
+,51283,"Longview, WA--OR                                                                                    ",51283,"Longview, WA--OR",63952,60443,32.86,26.86
+,6760,"Beloit, WI--IL                                                                                      ",6760,"Beloit, WI--IL",63835,56462,34.35,27.85
+,51499,"Los Lunas, NM                                                                                       ",51499,"Los Lunas, NM",63758,36101,69.26,35.64
+,90514,"Victoria, TX                                                                                        ",90514,"Victoria, TX",63683,61529,29.02,51.01
+,60490,"Mount Vernon, WA                                                                                    ",60490,"Mount Vernon, WA",62966,51174,34.47,31.72
+,20422,"Corvallis, OR                                                                                       ",20422,"Corvallis, OR",62433,58229,21.11,28.98
+,45694,"Kokomo, IN                                                                                          ",45694,"Kokomo, IN",62182,63739,36.26,35.48
+,81631,"Sherman, TX                                                                                         ",81631,"Sherman, TX",61900,56168,35.93,31.88
+,80416,"Sebring--Avon Park, FL                                                                              ",80416,"Sebring--Avon Park, FL",61625,45123,46.17,34.44
+,34219,"Grand Forks, ND--MN                                                                                 ",34219,"Grand Forks, ND--MN",61270,56573,24.44,16.76
+,4951,"Bangor, ME                                                                                          ",4951,"Bangor, ME",61210,58983,42.51,38.73
+,33814,"Goldsboro, NC                                                                                       ",33814,"Goldsboro, NC",61054,57915,52.91,43.74
+,7138,"Benton Harbor--St. Joseph--Fair Plain, MI                                                           ",7138,"Benton Harbor--St. Joseph, MI",61022,61745,46.67,45.40
+,76204,"Rome, GA                                                                                            ",76204,"Rome, GA",60851,58287,47.67,40.84
+,2062,"Ames, IA                                                                                            ",2062,"Ames, IA",60438,50726,23.23,15.79
+,49339,"Lewiston, ME                                                                                        ",49339,"Lewiston, ME",59397,50567,35.40,20.64
+,79147,"San Luis Obispo, CA                                                                                 ",79147,"San Luis Obispo, CA",59219,53498,20.41,14.83
+,69778,"Pittsfield, MA                                                                                      ",69778,"Pittsfield, MA",59124,52772,33.50,33.83
+,59410,"Morristown, TN                                                                                      ",59410,"Morristown, TN",59036,54368,59.84,45.40
+,56980,"Midland, MI                                                                                         ",56980,"Midland, MI",59014,49387,44.87,30.69
+,49594,"Lexington Park--California--Chesapeake Ranch Estates, MD                                            ",16129,"Chesapeake Ranch Estates-Drum Point, MD",58875,43196,49.94,35.02
+,42967,"Jefferson City, MO                                                                                  ",42967,"Jefferson City, MO",58533,53714,39.99,38.16
+,56899,"Middletown, NY                                                                                      ",56899,"Middletown, NY",58381,50071,31.32,28.18
+,14158,"Carson City, NV                                                                                     ",14158,"Carson City, NV",58079,58263,23.09,28.08
+,92674,"Watertown, NY                                                                                       ",92674,"Watertown, NY",57840,46434,40.94,23.90
+,53983,"Mankato, MN                                                                                         ",53983,"Mankato, MN",57584,47115,26.37,20.78
+,45262,"Kingston, NY                                                                                        ",45262,"Kingston, NY",57442,53458,42.84,33.66
+,22285,"Daphne--Fairhope, AL                                                                                ",22285,"Daphne--Fairhope, AL",57383,38110,55.25,32.49
+,955,"Albany, OR                                                                                          ",955,"Albany, OR",56997,42193,23.96,16.22
+,37945,"Hazleton, PA                                                                                        ",37945,"Hazleton, PA",56827,51746,31.23,28.88
+,95455,"Williamsport, PA                                                                                    ",95455,"Williamsport, PA",56142,58693,26.50,26.97
+,43615,"Kahului, HI                                                                                         ",43615,"Kahului, HI",55934,40499,16.68,13.27
+,91405,"Walla Walla, WA--OR                                                                                 ",91405,"Walla Walla, WA",55805,43366,27.67,23.00
+,96994,"Woodland, CA                                                                                        ",96994,"Woodland, CA",55513,49168,12.20,8.71
+,40213,"Hot Springs, AR                                                                                     ",40213,"Hot Springs, AR",55121,51763,44.92,45.34
+,19126,"Columbus, IN                                                                                        ",19126,"Columbus, IN",54933,50227,27.25,25.86
+,30223,"Fond du Lac, WI                                                                                     ",30223,"Fond du Lac, WI",54901,50058,28.85,20.36
+,53848,"Manhattan, KS                                                                                       ",53848,"Manhattan, KS",54622,46671,20.71,15.75
+,87787,"Titusville, FL                                                                                      ",87787,"Titusville, FL",54386,52922,30.07,31.52
+,22987,"Delano, CA                                                                                          ",22987,"Delano, CA",54372,39512,9.92,5.93
+,25849,"East Stroudsburg, PA--NJ                                                                            ",25849,"East Stroudsburg, PA",54316,40664,52.10,40.63
+,41914,"Ithaca, NY                                                                                          ",41914,"Ithaca, NY",53661,53528,24.58,29.71
+,8434,"Bloomsburg--Berwick, PA                                                                             ",8434,"Bloomsburg--Berwick, PA",53618,48245,32.68,25.26
+,69454,"Pine Bluff, AR                                                                                      ",69454,"Pine Bluff, AR",53495,58584,37.18,35.48
+,46747,"Lake Havasu City, AZ                                                                                ",46747,"Lake Havasu City, AZ",53427,42787,29.54,26.83
+,29278,"Farmington, NM                                                                                      ",29278,"Farmington, NM",53049,53294,34.89,43.06
+,13537,"Cape Girardeau, MO--IL                                                                              ",13537,"Cape Girardeau, MO--IL",52900,46968,35.03,25.05
+,79201,"San Marcos, TX                                                                                      ",79201,"San Marcos, TX",52826,47333,26.58,24.98
+,81901,"Sierra Vista, AZ                                                                                    ",81901,"Sierra Vista, AZ",52745,46941,30.28,80.44
+,14185,"Cartersville, GA                                                                                    ",14185,"Cartersville, GA",52477,33685,50.60,38.24
+,3196,"Arroyo Grande--Grover Beach, CA                                                                     ",3196,"Arroyo Grande--Grover Beach, CA",52000,47550,23.02,18.47
+,49312,"Lewiston, ID--WA                                                                                    ",49312,"Lewiston, ID--WA",51924,50317,28.22,28.31
+,21745,"Cumberland, MD--WV--PA                                                                              ",21745,"Cumberland, MD--WV--PA",51899,52115,32.63,32.72
+,51040,"Lompoc, CA                                                                                          ",51040,"Lompoc, CA",51509,55667,10.70,60.10
+,39133,"Hinesville, GA                                                                                      ",39133,"Hinesville, GA",51456,50360,31.14,27.16
+,89650,"Uniontown--Connellsville, PA                                                                        ",89650,"Uniontown--Connellsville, PA",51370,58442,38.82,44.61
+,14401,"Casa Grande, AZ                                                                                     ",14401,"Casa Grande, AZ",51331,29815,22.27,16.40
+,90658,"Villas, NJ                                                                                          ",95293,"Wildwood--North Wildwood--Cape May, NJ",51291,52550,33.88,38.77
+,58357,"Monroe, MI                                                                                          ",58357,"Monroe, MI",51240,53153,32.10,29.59
+,11026,"Brunswick, GA                                                                                       ",11026,"Brunswick, GA",51024,51653,43.38,43.02
+,22204,"Danville, IL                                                                                    ",22204,"Danville, IL",50996,53223,29.81,30.93
+,15184,"Chambersburg, PA                                                                                    ",15184,"Chambersburg, PA",50887,37872,37.37,27.33
+,34516,"Grants Pass, OR                                                                                     ",34516,"Grants Pass, OR",50520,43811,27.20,25.40
+,61840,"New Bern, NC                                                                                        ",61840,"New Bern, NC",50503,38788,43.41,34.32
+,34246,"Grand Island, NE                                                                                    ",34246,"Grand Island, NE",50440,45499,28.13,22.67
+,67807,"Pascagoula, MS                                                                                      ",67807,"Pascagoula, MS",50428,54190,39.54,34.05
